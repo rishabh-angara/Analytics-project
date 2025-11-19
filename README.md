@@ -34,10 +34,6 @@ It highlights key KPIs such as total production, downtime percentage, operator p
 
 
 
-## ▶ How to Use
-1. Download `production_dashboard.xlsx`  
-2. Open in Microsoft Excel  
-3. Use slicers to filter by operator, date, product, or shift  
 
 ## 🛠 Tools Used
 - Microsoft Excel  
